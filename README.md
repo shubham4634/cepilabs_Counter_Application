@@ -1,7 +1,7 @@
 # Introduction
 
-- Name - Sumit Kumar
-- Email - [s0k00singh@gmail.com](mailto:s0k00singh@gmail.com)
+- Name - Shubham Jaiswal
+- Email - [abcshubhamjaiswal@outlook.com](mailto:abcshubhamjaiswal@outlook.com)
 
 ## Simple Redux Toolkit Counter
 
